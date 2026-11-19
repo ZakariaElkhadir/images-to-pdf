@@ -38,3 +38,7 @@ Use the same keys and placeholders in all three language dictionaries. Arabic us
 ## GitHub Pages
 
 Set **Settings → Pages → Source** to **GitHub Actions**. The included workflow publishes `dist/` when site files change on `main`. You can also run it from the Actions tab. All site assets use relative paths, so the app works under a repository URL.
+
+## License
+
+Released under the [MIT License](LICENSE).
